@@ -7,12 +7,12 @@ const Homepage = () => {
       
       {/* Judul Utama */}
       <h1 className="text-5xl md:text-6xl font-bold mb-4 text-cyan-400 animate-fade-in-down">
-        Cek Kesehatan Tidur Digitalmu
+        Cek Kesehatan Tidur Anda!
       </h1>
       
       {/* Deskripsi Singkat */}
       <p className="text-lg md:text-xl max-w-2xl mb-8 text-slate-300 animate-fade-in-up">
-        Ketahui bagaimana kebiasaan media sosialmu memengaruhi kualitas tidurmu dengan prediksi berbasis AI.
+        Ketahui bagaimana kebiasaan media sosial mempengaruhi kualitas tidur Anda dengan prediksi berbasis AI.
       </p>
       
       {/* Tombol Navigasi ke Halaman Formulir */}

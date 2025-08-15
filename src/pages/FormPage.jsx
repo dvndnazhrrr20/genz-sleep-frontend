@@ -135,7 +135,7 @@ const FormPage = () => {
               <input type="time" name="durasi_app2" id="durasi_app2" value={formData.durasi_app2} onChange={handleChange} required className="w-full p-2 bg-slate-700 rounded border border-slate-600 focus:ring-2 focus:ring-cyan-500 focus:outline-none" />
             </div>
             <div>
-              <label htmlFor="durasi_app3" className="block mb-2">16. YouTube/Twitter</label>
+              <label htmlFor="durasi_app3" className="block mb-2">16. Whatsapp</label>
               <input type="time" name="durasi_app3" id="durasi_app3" value={formData.durasi_app3} onChange={handleChange} required className="w-full p-2 bg-slate-700 rounded border border-slate-600 focus:ring-2 focus:ring-cyan-500 focus:outline-none" />
             </div>
           </div>
